@@ -26,7 +26,7 @@ export default async function RootLayout({
         <NextAuthProvider>
           <nav className="flex px-10 py-5 justify-between fixed top-0 left-0 w-full bg-white">
             <h1 className="text-black text-3xl font-bold">
-              Marshal<span className="text-teal-500">Chat</span>
+              La<span className="text-teal-500">Anu</span>
             </h1>
 
             {session ? (
