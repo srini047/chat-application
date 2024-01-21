@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { MainLogin } from "./components/Buttons";
 import { getServerSession } from "next-auth";
 import { authOptions } from "./lib/auth";
